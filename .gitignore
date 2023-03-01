@@ -1,0 +1,6 @@
+node_modules
+dist
+app/images/dist
+
+package-lock.json
+.DS_Store
