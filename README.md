@@ -13,6 +13,7 @@ This is the template for landing on Jekyll. The result you can see [here](https:
 - [Prognroll](https://github.com/mburakerman/prognroll)
 - [Font Awesome Cheatsheet](https://fontawesome.com/v4/cheatsheet/)
 - [Sass](https://sass-lang.com)
+- [jQuery](https://jquery.com)
 
 ---
 **How to make it work?**
