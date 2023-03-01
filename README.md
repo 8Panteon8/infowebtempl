@@ -9,7 +9,7 @@ This is the template for landing on Jekyll. The result you can see [here](https:
 # References
 - [Bootstrap](https://getbootstrap.com)
 - [Gulp](https://gulpjs.com)
-- Likely
+- [Likely](https://github.com/NikolayRys/Likely)
 - [Prognroll](https://github.com/mburakerman/prognroll)
 - [Font Awesome Cheatsheet](https://fontawesome.com/v4/cheatsheet/)
 - [Sass](https://sass-lang.com)
